@@ -1,0 +1,21 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : E:\ALEXANDRE.PROULX.3@GMAIL.COM\µCTRL\#HARDWARE-FIRMWARE\LIVRABLES\ITÉRATIONS PCB\ITÉRATION #22\UCTRL CMSIS-DAP\CMSIS-DAP (PCB - Schematic and PCB Check Report).txt
+Report Written : Sunday, April 13, 2014
+Project Path   : E:\ALEXANDRE.PROULX.3@GMAIL.COM\µCTRL\#HARDWARE-FIRMWARE\LIVRABLES\ITÉRATIONS PCB\ITÉRATION #22\UCTRL CMSIS-DAP\CMSIS-DAP.prj
+Design Path    : E:\ALEXANDRE.PROULX.3@GMAIL.COM\µCTRL\#HARDWARE-FIRMWARE\LIVRABLES\ITÉRATIONS PCB\ITÉRATION #22\UCTRL CMSIS-DAP\CMSIS-DAP.pcb
+Design Title   : 
+Created        : 2014-04-04 11:23:25
+Last Saved     : 2014-04-13 13:32:02
+Editing Time   : 436 min
+Units          : mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "CMSIS-DAP"
+======================================================================
+
+The designs are the same.
+
+
+End Of Report.

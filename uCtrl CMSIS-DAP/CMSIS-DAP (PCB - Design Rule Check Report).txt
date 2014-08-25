@@ -1,0 +1,239 @@
+Design Rule Check Report
+------------------------
+
+Report File    : E:\ALEXANDRE.PROULX.3@GMAIL.COM\µCTRL\#HARDWARE-FIRMWARE\LIVRABLES\ITÉRATIONS PCB\ITÉRATION #22\UCTRL CMSIS-DAP\CMSIS-DAP (PCB - Design Rule Check Report).txt
+Report Written : Sunday, April 13, 2014
+Project Path   : E:\ALEXANDRE.PROULX.3@GMAIL.COM\µCTRL\#HARDWARE-FIRMWARE\LIVRABLES\ITÉRATIONS PCB\ITÉRATION #22\UCTRL CMSIS-DAP\CMSIS-DAP.prj
+Design Path    : E:\ALEXANDRE.PROULX.3@GMAIL.COM\µCTRL\#HARDWARE-FIRMWARE\LIVRABLES\ITÉRATIONS PCB\ITÉRATION #22\UCTRL CMSIS-DAP\CMSIS-DAP.pcb
+Design Title   : 
+Created        : 2014-04-04 11:23:25
+Last Saved     : 2014-04-13 13:32:02
+Editing Time   : 436 min
+Units          : mm (precision 2)
+
+
+Results
+=======
+
+Pad to Silkscreen error (P-S) at (178.65 91.40) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (178.65 91.40) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (174.50 79.30) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (174.50 79.30) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.68 83.40) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.60 83.80) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.40 85.70) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.40 85.70) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (162.30 85.15) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (162.30 85.15) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (162.30 83.35) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (162.30 83.35) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.20 83.65) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.20 83.65) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.55 98.69) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.55 98.69) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (159.66 77.49) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (159.56 77.41) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (173.00 82.60) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (173.00 82.60) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (173.75 84.80) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (173.75 84.80) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (172.00 82.80) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (172.00 82.80) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (165.40 69.60) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (165.40 69.60) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.39 73.04) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (174.64 71.80) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (174.64 71.80) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (173.39 69.31) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (175.79 73.04) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (174.99 73.04) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (176.00 76.73) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.91 79.95) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (171.69 77.50) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (176.75 94.67) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (169.84 71.37) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (169.84 71.37) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.34 75.87) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.34 75.87) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.34 71.37) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.34 71.37) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (179.55 90.87) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.70 80.25) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.70 77.97) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (159.85 72.20) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (160.80 72.20) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.50 75.30) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (162.85 67.40) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (160.57 67.40) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.75 66.66) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.75 64.37) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (153.25 87.78) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (153.25 87.78) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (154.02 90.30) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (154.02 90.30) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (154.60 95.87) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (154.60 95.87) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (157.11 90.82) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (157.11 90.82) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (156.56 92.84) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (156.56 92.84) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (154.02 97.92) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (154.02 97.92) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (156.56 97.92) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (156.56 97.92) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (182.29 88.47) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (182.29 87.59) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (175.79 81.50) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (175.79 82.78) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (175.79 84.05) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (175.79 85.31) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (175.79 86.40) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (172.20 96.95) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (174.40 93.74) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.08 96.61) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (164.43 98.42) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (161.66 94.42) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (166.04 100.56) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (168.33 101.00) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (159.55 83.94) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (164.30 68.85) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.95 66.66) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.95 64.37) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (163.56 97.25) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Via to Silkscreen error (V-S) at (159.10 93.30) on layer "Top Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (159.10 93.30) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+
+Number of errors found : 87
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   Yes
+Drill Backoff                    Yes
+Silkscreen Overlap               Yes
+Copper Text In Board             Yes
+Min Track Width                  Yes
+Min Annular Ring                 Yes
+Min Paste Size                   Yes
+Vias In Pads                     Yes
+Unplated Vias                    Yes
+Unplated Pads With Inner Tracks  Yes
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

@@ -1,0 +1,47 @@
+Report Written :   Sunday	 April 13	 2014  13:36							
+Project Path   :   E:\ALEXANDRE.PROULX.3@GMAIL.COM\�CTRL\#HARDWARE-FIRMWARE\LIVRABLES\IT�RATIONS PCB\IT�RATION #22\UCTRL CMSIS-DAP\CMSIS-DAP.prj									
+Design Path    :   E:\ALEXANDRE.PROULX.3@GMAIL.COM\�CTRL\#HARDWARE-FIRMWARE\LIVRABLES\IT�RATIONS PCB\IT�RATION #22\UCTRL CMSIS-DAP\CMSIS-DAP.pcb									
+Design Title   :									
+Created        :   2014-04-04 11:23:25									
+Last Saved     :   2014-04-13 13:32:02									
+Editing Time   :   436 min									
+Units          :   mm (precision 2)									
+									
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb									
+--------------------------------------------------------------------------									
+									
+ 									
+Ref Name	Qty	Component	Value	Package	Manufacturer	MPN	RS Part Number	Other Part Number	Description
+U3	1	74xx125		USER					
+C3	1	Capacitor	0.1ﾵF	603					Capacitor
+C2	1	Capacitor	1nF	603					Capacitor
+C1	1	Capacitor	1nF	603					Capacitor
+C6	1	Capacitor	2.2ﾵF	603					Capacitor
+C5	1	Capacitor	22pF	805					Capacitor
+C4	1	Capacitor	22pF	805					Capacitor
+J3	1	CONN10_2X5		USER					
+J2	1	CONN_SIL_2		DSC					2 way Pin Header
+J6	1	CONN_SIL_2		DSC					2 way Pin Header
+J4	1	CONN_SIL_2		DSC					2 way Pin Header
+J5	1	CONN_SIL_2		DSC					2 way Pin Header
+J1	1	CONN_SIL_2		DSC					2 way Pin Header
+X1	1	Crystal 8MHz		QFP					
+U4	1	GSOT05C		SOT-23					
+L1	1	Inductor	IND 330OHM@100MHZ 2.5A	SM0603					Inductor
+L2	1	Inductor	IND 330OHM@100MHZ 2.5A	SM0603					Inductor
+LED1	1	LED		SMD 0805					Light Em Di
+LED2	1	LED		SMD 0805					Light Em Di
+U1	1	PK20DX128VFM5		USER					
+R9	1	Resistor	10k	SM					Resistor
+R6	1	Resistor	33	SM					Resistor
+R1	1	Resistor	33	SM					Resistor
+R8	1	Resistor2	4.7K	SM					Resistor (USA type)
+R4	1	Resistor2	4.7K	SM					Resistor (USA type)
+R10	1	Resistor2	10K	SM					Resistor (USA type)
+R7	1	Resistor2	10K	SM					Resistor (USA type)
+R2	1	Resistor2	10K	SM					Resistor (USA type)
+R3	1	Resistor2	10K	SM					Resistor (USA type)
+R5	1	Resistor2	220	SM					Resistor (USA type)
+U2	1	SPX3819		USER					
+SW1	1	Switch SPST - NO		USER					FSM4JH
+J7	1	USB mini B Angle		USER					
