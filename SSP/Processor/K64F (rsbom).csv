@@ -1,0 +1,19 @@
+Report Written :   Thursday, September 11, 2014  10:03
+Project Path   :   C:\Users\Administrateur\workspace\Schematics\SSP\Processor\K64F.prj
+Design Path    :   C:\Users\Administrateur\workspace\Schematics\SSP\Processor\K64F.pcb
+Design Title   :
+Created        :   2014-09-10 08:26:29
+Last Saved     :   2014-09-10 08:38:41
+Editing Time   :   1537 min
+Units          :   mm (precision 3)
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"J3","1","CONN12_2X6","","USER","","","","",""
+"J1","1","CONN16_2X8","","USER","","","","",""
+"J2","1","CONN16_2X8","","USER","","","","",""
+"J4","1","CONN20_2X10","","USER","","","","",""
+"U1","1","MK64FN1M0VMD12","","PGA","","","","",""
