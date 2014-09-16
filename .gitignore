@@ -2,3 +2,5 @@
 SSP/Processor/~K64F.sch
 uCtrl CMSIS-DAP/~USB.sch
 uCtrl CMSIS-DAP/~Alimentation.sch
+*.txt
+*~*
