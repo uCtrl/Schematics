@@ -2,5 +2,5 @@
 SSP/Processor/~K64F.sch
 uCtrl CMSIS-DAP/~USB.sch
 uCtrl CMSIS-DAP/~Alimentation.sch
-*(PCB - Forward Design Changes Report).txt
-*(PCB - Schematic and PCB Check Report).txt
+*.txt*
+*~*
