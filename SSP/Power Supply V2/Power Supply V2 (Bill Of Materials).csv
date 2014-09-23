@@ -1,10 +1,10 @@
-Report Written :   Tuesday, September 23, 2014  00:07
+Report Written :   Tuesday, September 23, 2014  18:09
 Project Path   :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\SSP\Power Supply V2\Power Supply V2.prj
 Design Path    :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\SSP\Power Supply V2\Alimentation_AvecTransfo.sch
 Design Title   :
 Created        :
-Last Saved     :   9/23/2014 12:03:21 AM
-Editing Time   :   5399 min
+Last Saved     :   9/23/2014 6:09:38 PM
+Editing Time   :   5595 min
 Units          :   thou (precision 2)
 
 Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
@@ -15,22 +15,20 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "REF1","1","+V","","","","","","","Power"
 "REF2","1","+V","","","","","","","Power"
 "REF3","1","+V","","","","","","","Power"
+"D3","1","1N414","1N4148","SOD-323F","","","1N4148WS","",""
+"D4","1","BAT46","BAT46","SOD-323F","","","BAT46WJ,115","",""
 "C9","1","Capacitor","0.1uF","0603","","","","","Capacitor"
 "C10","1","Capacitor","0.1uF","0603","","","","","Capacitor"
 "C4","1","Capacitor","1.8nF","0603","","","","","Capacitor"
 "C14","1","Capacitor","15nF","0603","","","","","Capacitor"
 "C5","1","Capacitor","33nF","0603","","","","","Capacitor"
 "C6","1","Capacitor","Y1 1.8nF","0603","","","","","Capacitor"
-"C1","1","Capacritor_Pol","10uF","CAPP5V","","","","",""
-"C2","1","Capacritor_Pol","10uF","CAPP5V","","","","",""
-"C3","1","Capacritor_Pol","22uF","CAPP5V","","","","",""
-"C8","1","Capacritor_Pol","YK 47uF","CAPP1V","","","","",""
-"C7","1","Capacritor_Pol","ZL 470uF","CAPP1V","","","","",""
-"U1","1","CD2320","","USER","","","","",""
-"D6","1","DIODE800V1A","","USER","","","","",""
-"D2","1","DIODE800V1A","1N4148","USER","","","","",""
-"D1","1","DIODE800V1A","BAT46","USER","","","","",""
-"D9","1","DIODE800V1A","STPS2H100","USER","","","","",""
+"C1","1","Capacritor_Pol","10uF","CAPP4V","","","EKXG451ELL100MK20S","",""
+"C2","1","Capacritor_Pol","10uF","CAPP4V","","","EKXG451ELL100MK20S","",""
+"C3","1","Capacritor_Pol","22uF","CAPP1V","","","UKA1E220MDD1TD","",""
+"C8","1","Capacritor_Pol","YK 47uF","CAPP1V","","","UKA1E470MDD1TD","",""
+"C7","1","Capacritor_Pol","ZL 470uF","DSCV","","","UHD1E471MPD","",""
+"U1","1","CD2320","","USER","","","CD2320-B11000","",""
 "F1","1","FUSE","","464","","","","",""
 "REF4","1","GND","","","","","","","Power"
 "REF5","1","GND","","","","","","","Power"
@@ -40,11 +38,12 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "REF9","1","GND","","","","","","","Power"
 "Ground4","1","Ground","","SPICE","","","","",""
 "Ground1","1","Ground","","SPICE","","","","",""
-"L2","1","INDUCTOR NR6028","4.7uH","USER","","","","",""
-"U3","1","LTV-817S","","USER","","","","",""
-"U4","1","MIC5211","","SOT-23-6","","","","",""
-"VR2","1","Potentiometer","","SPICE","","","","",""
-"J1","1","PowerGridConnector","","USER","","","","",""
+"U3","1","LTV-817S","","4-SMD","","","LTV-817S-TA1","",""
+"U4","1","MIC5211","","SOT-23-6","","","MIC5211-LXYM6 TR","",""
+"L1","1","NR6028","4.7uH","SMD","","","NR6028T4R7M","",""
+"D1","1","P6KE250","","SMBJ","","","SMBJP6KE250CA-TP","",""
+"VR2","1","Potentiometer","100k","3362P","","","Dispo en bas","",""
+"J1","1","PowerGridConnector","","USER","","","OSTTC030162","",""
 "R6","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
 "R5","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
 "R2","1","Resistor2","10","SM","","","","","Resistor (USA type)"
@@ -54,9 +53,10 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "R8","1","Resistor2","66k","SM","","","","","Resistor (USA type)"
 "R1","1","Resistor2","220k","SM","","","","","Resistor (USA type)"
 "R7","1","Resistor2","330k","SM","","","","","Resistor (USA type)"
-"VR1","1","TL431","","SOT-23-3","","","","",""
-"T1","1","Transformer 750370024","","750370024","","","","",""
-"D5","1","TVS DIODE","","USER","","","","",""
-"T2","1","UF1717V-103YR25-02","","Vertical 4 Pin","","","","","Common Mode Choke Coils"
-"A1","1","varistor","","SPICE","","","","",""
-"U2","1","VIPER17_Sch","","SO16N","","","","",""
+"D5","1","STPS2H100A","STPS2H100","SMA","","","STPS2H100A","",""
+"D2","1","STTH1L06","","SMA","","","STTH1L06A","",""
+"VR1","1","TL431","","SOT-23-3","","","TL431AIDBZR","",""
+"T1","1","Transformer 750370024","","750370024","","","7508110100","",""
+"T2","1","UF1717V-103YR25-02","","Vertical 4 Pin","","","UF1717V-103YR25-02","","Common Mode Choke Coils"
+"A1","1","varistor","","USER","","","","",""
+"U2","1","VIPER17_Sch","","SO16N","","","VIPER17HDTR","",""
