@@ -1,0 +1,65 @@
+Report Written :   Tuesday, September 23, 2014  20:48
+Project Path   :   C:\Users\domum1\workspace\Schematics\Arduino Shield\PLC\PLC.prj
+Design Path    :   C:\Users\domum1\workspace\Schematics\Arduino Shield\PLC\PLC.pcb
+Design Title   :
+Created        :   2014-09-17 17:35:10
+Last Saved     :   2014-09-23 17:39:53
+Editing Time   :   161 min
+Units          :   mm (precision 3)
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"U3","1","AFE301","","QFP","","","","",""
+"U1","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","","This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5"
+"C27","1","Capacitor","1 nF","0805","","","","","Capacitor"
+"C26","1","Capacitor","1 nF","0805","","","","","Capacitor"
+"C25","1","Capacitor","1 nF","0805","","","","","Capacitor"
+"C24","1","Capacitor","1 nF","0805","","","","","Capacitor"
+"C23","1","Capacitor","1uF","0805","","","","","Capacitor"
+"C28","1","Capacitor","3.3 nF","0805","","","","","Capacitor"
+"C31","1","Capacitor","10µF","0805","","","","","Capacitor"
+"C18","1","Capacitor","10 nF","0805","","","","","Capacitor"
+"C30","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C29","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C12","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C13","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C14","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C15","1","Capacitor","10 uf","0805","","","","","Capacitor"
+"C16","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C17","1","Capacitor","10 uF","0805","","","","","Capacitor"
+"C22","1","Capacitor","10nF","0805","","","","","Capacitor"
+"C21","1","Capacitor","22nF","0805","","","","","Capacitor"
+"C20","1","Capacitor","33 nF","0805","","","","","Capacitor"
+"C19","1","Capacitor","470 nF","0805","","","","","Capacitor"
+"L5","1","Inductor","","1210","","","","","Inductor"
+"L4","1","Inductor","","1210","","","","","Inductor"
+"L3","1","Inductor","","1210","","","","","Inductor"
+"L2","1","Inductor","","1210","","","","","Inductor"
+"R23","1","Resistor","1K","SM","","","","","Resistor"
+"R22","1","Resistor","1K","SM","","","","","Resistor"
+"R10","1","Resistor","4.7K","SM","","","","","Resistor"
+"R11","1","Resistor","7.5K","SM","","","","","Resistor"
+"R18","1","Resistor","10K","SM","","","","","Resistor"
+"R17","1","Resistor","10K","SM","","","","","Resistor"
+"R16","1","Resistor","10K","SM","","","","","Resistor"
+"R15","1","Resistor","10K","SM","","","","","Resistor"
+"R19","1","Resistor","10K","SM","","","","","Resistor"
+"R20","1","Resistor","10K","SM","","","","","Resistor"
+"R14","1","Resistor","33K","SM","","","","","Resistor"
+"R12","1","Resistor","33K","SM","","","","","Resistor"
+"R13","1","Resistor","33K","SM","","","","","Resistor"
+"R21","1","Resistor","330","SM","","","","","Resistor"
+"U2","1","TMS320F28069UPNT","","QFP50P1400X1400X160-80N","","","","","Piccolo Microcontrollers,LQFP-80"
+"TP3","1","TP","","USER","","","","",""
+"TP1","1","TP","","USER","","","","",""
+"TP2","1","TP","","USER","","","","",""
+"T1","1","Transfo 1.5:1","","USER","","","","",""
+"H1","1","Trou 120V","","USER","","","","",""
+"H2","1","Trou 120V","","USER","","","","",""
+"D3","1","TVS DIODE","","USER","","","","",""
+"D5","1","ZENER BZV55","","user","","","","",""
+"D4","1","ZENER BZV55","","user","","","","",""
+"D6","1","ZENER BZV55","","user","","","","",""
