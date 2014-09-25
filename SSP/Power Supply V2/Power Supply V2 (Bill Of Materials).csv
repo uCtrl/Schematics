@@ -1,21 +1,20 @@
-Report Written :   Tuesday, September 23, 2014  18:09
+Report Written :   Thursday, September 25, 2014  14:37
 Project Path   :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\SSP\Power Supply V2\Power Supply V2.prj
-Design Path    :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\SSP\Power Supply V2\Alimentation_AvecTransfo.sch
+Design Path    :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\SSP\Power Supply V2\Template_Arduino.pcb
 Design Title   :
-Created        :
-Last Saved     :   9/23/2014 6:09:38 PM
-Editing Time   :   5595 min
-Units          :   thou (precision 2)
+Created        :   9/17/2014 5:35:10 PM
+Last Saved     :   9/25/2014 2:36:08 PM
+Editing Time   :   212 min
+Units          :   mm (precision 3)
 
 Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 --------------------------------------------------------------------------
 
 
 "Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
-"REF1","1","+V","","","","","","","Power"
-"REF2","1","+V","","","","","","","Power"
-"REF3","1","+V","","","","","","","Power"
 "D3","1","1N414","1N4148","SOD-323F","","","1N4148WS","",""
+"J2","1","332-02","","332-02","","","","","2 Pin - 2mm Dual RowSource: www.mpe-connector.de / garry_shortform_2012.pdf"
+"U5","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","","This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5"
 "D4","1","BAT46","BAT46","SOD-323F","","","BAT46WJ,115","",""
 "C9","1","Capacitor","0.1uF","0603","","","","","Capacitor"
 "C10","1","Capacitor","0.1uF","0603","","","","","Capacitor"
@@ -28,29 +27,20 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "C3","1","Capacritor_Pol","22uF","CAPP1V","","","UKA1E220MDD1TD","",""
 "C8","1","Capacritor_Pol","YK 47uF","CAPP1V","","","UKA1E470MDD1TD","",""
 "C7","1","Capacritor_Pol","ZL 470uF","DSCV","","","UHD1E471MPD","",""
-"U1","1","CD2320","","USER","","","CD2320-B11000","",""
-"F1","1","FUSE","","464","","","","",""
-"REF4","1","GND","","","","","","","Power"
-"REF5","1","GND","","","","","","","Power"
-"REF6","1","GND","","","","","","","Power"
-"REF7","1","GND","","","","","","","Power"
-"REF8","1","GND","","","","","","","Power"
-"REF9","1","GND","","","","","","","Power"
-"Ground4","1","Ground","","SPICE","","","","",""
-"Ground1","1","Ground","","SPICE","","","","",""
+"U1","1","CD2320","","2320","","","","",""
+"F1","1","Fuse TR5","","AXIAL","","","37005000000","",""
 "U3","1","LTV-817S","","4-SMD","","","LTV-817S-TA1","",""
 "U4","1","MIC5211","","SOT-23-6","","","MIC5211-LXYM6 TR","",""
 "L1","1","NR6028","4.7uH","SMD","","","NR6028T4R7M","",""
 "D1","1","P6KE250","","SMBJ","","","SMBJP6KE250CA-TP","",""
-"VR2","1","Potentiometer","100k","3362P","","","Dispo en bas","",""
 "J1","1","PowerGridConnector","","USER","","","OSTTC030162","",""
 "R6","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
 "R5","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
 "R2","1","Resistor2","10","SM","","","","","Resistor (USA type)"
-"R9","1","Resistor2","18k","SM","","","","","Resistor (USA type)"
+"R9","1","Resistor2","15k","SM","","","","","Resistor (USA type)"
 "R4","1","Resistor2","33k","SM","","","","","Resistor (USA type)"
 "R3","1","Resistor2","66k","SM","","","","","Resistor (USA type)"
-"R8","1","Resistor2","66k","SM","","","","","Resistor (USA type)"
+"R8","1","Resistor2","75k","SM","","","","","Resistor (USA type)"
 "R1","1","Resistor2","220k","SM","","","","","Resistor (USA type)"
 "R7","1","Resistor2","330k","SM","","","","","Resistor (USA type)"
 "D5","1","STPS2H100A","STPS2H100","SMA","","","STPS2H100A","",""
@@ -58,5 +48,5 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "VR1","1","TL431","","SOT-23-3","","","TL431AIDBZR","",""
 "T1","1","Transformer 750370024","","750370024","","","7508110100","",""
 "T2","1","UF1717V-103YR25-02","","Vertical 4 Pin","","","UF1717V-103YR25-02","","Common Mode Choke Coils"
-"A1","1","varistor","","USER","","","","",""
+"VAR1","1","varistor","","USER","","","","",""
 "U2","1","VIPER17_Sch","","SO16N","","","VIPER17HDTR","",""
