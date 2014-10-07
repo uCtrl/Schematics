@@ -12,6 +12,8 @@ CONN16_2X8||16
 CONN20_2X10||20
 Crystal 8MHz||4
 DIODE||2
+DS_A4_Template_r00||0
+DS_Template||0
 GSOT05C||3
 KL25Z||80
 LNK363DG||8
