@@ -2,6 +2,7 @@
 32 QFN - K20||32
 ACS709||24
 AFE031||48
+ARDUINOR_Shield_PIO||64
 Buffer with Enable||5
 Buffer_no_alim||3
 CD2320||4
