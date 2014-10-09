@@ -1,0 +1,52 @@
+Report Written :   Wednesday, October 08, 2014  13:35
+Project Path   :   C:\Users\Administrateur\workspace\Schematics\SSP\Power Supply V2\Power Supply V2.prj
+Design Path    :   C:\Users\Administrateur\workspace\Schematics\SSP\Power Supply V2\Template_Arduino.pcb
+Design Title   :
+Created        :   2014-09-17 17:35:10
+Last Saved     :   2014-10-08 12:17:16
+Editing Time   :   2053 min
+Units          :   mm (precision 3)
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"D3","1","1N414","1N4148","SOD-323F","","","1N4148WS","",""
+"J2","1","332-02","","332-02","","","Holes","","2 Pin - 2mm Dual RowSource: www.mpe-connector.de / garry_shortform_2012.pdf"
+"U5","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","","This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5"
+"C6","1","Capacitor","","AXIAL2","","","","",""
+"C9","1","Capacitor","0.1uF","0603","","","","",""
+"C10","1","Capacitor","0.1uF","0603","","","","",""
+"C4","1","Capacitor","1.8nF","0603","","","","",""
+"C14","1","Capacitor","15nF","0603","","","","",""
+"C5","1","Capacitor","33nF","0603","","","","",""
+"C1","1","Capacritor_Pol","10uF","CAPP4V","","","EKXG451ELL100MK20S","",""
+"C2","1","Capacritor_Pol","10uF","CAPP4V","","","EKXG451ELL100MK20S","",""
+"C3","1","Capacritor_Pol","22uF","CAPP1V","","","UKA1E220MDD1TD","",""
+"C8","1","Capacritor_Pol","YK 47uF","CAPP1V","","","UKA1E470MDD1TD","",""
+"C7","1","Capacritor_Pol","ZL 470uF","DSCV","","","UHD1E471MPD","",""
+"U1","1","CD2320","","2320","","","CD2320-B11000","",""
+"F1","1","Fuse TR5","","AXIAL","","","37005000000","",""
+"L1","1","INDUCTOR_","","2020","TYS50404R7N-10","","","",""
+"U3","1","LTV-817S","","4-SMD","","","LTV-817S-TA1","",""
+"U4","1","MIC5211","","SOT-23-6","","","MIC5211-LXYM6 TR","",""
+"D1","1","P6KE250","","SMBJ","","","SMBJP6KE250CA-TP","",""
+"J1","1","PowerGridConnector","","USER","OSTTC030162","","","",""
+"R6","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
+"R5","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
+"R2","1","Resistor2","10","SM","","","","","Resistor (USA type)"
+"R9","1","Resistor2","15k","SM","","","","","Resistor (USA type)"
+"R4","1","Resistor2","33k","SM","","","","","Resistor (USA type)"
+"R3","1","Resistor2","66k","SM","","","","","Resistor (USA type)"
+"R8","1","Resistor2","75k","SM","","","","","Resistor (USA type)"
+"R1","1","Resistor2","220k","SM","","","","","Resistor (USA type)"
+"R7","1","Resistor2","330k","SM","","","","","Resistor (USA type)"
+"D4","1","STPS2H100A","STPS2H100","SMA","","","","",""
+"D5","1","STPS2H100A","STPS2H100","SMA","","","STPS2H100A","",""
+"D2","1","STTH1L06","","SMA","","","STTH1L06A","",""
+"VR1","1","TL431","","SOT-23-3","","","TL431AIDBZR","",""
+"T1","1","Transformer 750370024","8:1","750370024","","","750370024","",""
+"T2","1","UF1717V-103YR25-02","","Vertical 4 Pin","","","UF1717V-103YR25-02","","Common Mode Choke Coils"
+"VAR1","1","varistor","","USER","","","S07K230","",""
+"U2","1","VIPER17-DIP7","","DIP8","","VIPERHN","VIPER17HN","",""
