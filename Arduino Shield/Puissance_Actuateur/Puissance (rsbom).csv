@@ -1,0 +1,40 @@
+Report Written :   Thursday, October 09, 2014  11:50
+Project Path   :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\Arduino Shield\Puissance_Actuateur\Puissance.prj
+Design Path    :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\Arduino Shield\Puissance_Actuateur\Template_Arduino.pcb
+Design Title   :
+Created        :   9/17/2014 5:35:10 PM
+Last Saved     :   10/9/2014 11:46:19 AM
+Editing Time   :   2629 min
+Units          :   mm (precision 3)
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"U5","1","ACS709","","user","Allegro MicroSystems, LLC","ACS709LLFTR-35BB-T","","620-1336-1-ND",""
+"U1","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","",""
+"Q2","1","BTA316","","user","NXP Semiconductors","BTA316B-600E,118","","568-5840-1-ND",""
+"C32","1","Capacitor","0.1uF","0603","Samsung Electro-Mechanics America, Inc","CL05B104KO5NNNC","","1276-1001-1-ND","Capacitor"
+"C33","1","Capacitor","0.1uF","0603","Samsung Electro-Mechanics America, Inc","CL05B104KO5NNNC","","1276-1001-1-ND","Capacitor"
+"C34","1","Capacitor","0.1uF","0603","Samsung Electro-Mechanics America, Inc","CL05B104KO5NNNC","","1276-1001-1-ND","Capacitor"
+"C36","1","Capacitor","0.01nF","0603","Johanson Technology Inc","251R14S100GV4T","","712-1307-1-ND","Capacitor"
+"D8","1","DIODE60V2A","","USER","Diodes Incorporated","B260-FDICT-ND","","B260-FDICT-ND",""
+"F1","1","FUSE","5A","464","Littelfuse Inc","0464005.DR","","F3665CT-ND",""
+"U7","1","MOC3023","","USER","Fairchild Semiconductor","MOC3023SR2M","","MOC3023SR2MCT-ND",""
+"R24","1","Resistor","10k","SM-0603","Panasonic Electronic Components","ERJ-3GEYJ103V","","P10KGCT-ND","Resistor"
+"R32","1","Resistor","10k","SM-0603","Panasonic Electronic Components","ERJ-3GEYJ103V","","P10KGCT-ND","Resistor"
+"R35","1","Resistor","39","SM-0603","Rohm Semiconductor","ESR03EZPJ390","","RHM39DCT-ND","Resistor"
+"R33","1","Resistor","360","SM-0603","Rohm Semiconductor","ESR03EZPJ361","","RHM360DCT-ND","Resistor"
+"R36","1","Resistor","360","SM-0603","Rohm Semiconductor","ESR03EZPJ361","","RHM360DCT-ND","Resistor"
+"R34","1","Resistor","360","SM-0603","Rohm Semiconductor","ESR03EZPJ361","","RHM360DCT-ND","Resistor"
+"R25","1","RESISTOR 5025","5.6k","5025","Stackpole Electronics Inc","RMCF2010JT5K60","","RMCF2010JT5K60CT-ND",""
+"R26","1","RESISTOR 5025","5.6k","5025","Stackpole Electronics Inc","RMCF2010JT5K60","","RMCF2010JT5K60CT-ND",""
+"U4","1","SFH6206","","USER","Vishay Semiconductor Opto Division","SFH6206-3T","","SFH6206-3TCT-ND",""
+"TP7","1","TP","","USER","","","","",""
+"TP6","1","TP","","USER","","","","",""
+"TP4","1","TP","","USER","","","","",""
+"H5","1","Trou 120V","","USER","","","","",""
+"H6","1","Trou 120V","","USER","","","","",""
+"H1VinNeutre","1","Trou 120V","","USER","","","","",""
+"H2VinPhase","1","Trou 120V","","USER","","","","",""
