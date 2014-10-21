@@ -1,52 +1,52 @@
-Report Written :   Wednesday, October 08, 2014  13:35
-Project Path   :   C:\Users\Administrateur\workspace\Schematics\SSP\Power Supply V2\Power Supply V2.prj
-Design Path    :   C:\Users\Administrateur\workspace\Schematics\SSP\Power Supply V2\Template_Arduino.pcb
-Design Title   :
-Created        :   2014-09-17 17:35:10
-Last Saved     :   2014-10-08 12:17:16
-Editing Time   :   2053 min
-Units          :   mm (precision 3)
-
-Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
---------------------------------------------------------------------------
-
-
-"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
-"D3","1","1N414","1N4148","SOD-323F","","","1N4148WS","",""
-"J2","1","332-02","","332-02","","","Holes","","2 Pin - 2mm Dual RowSource: www.mpe-connector.de / garry_shortform_2012.pdf"
-"U5","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","","This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5"
-"C6","1","Capacitor","","AXIAL2","","","","",""
-"C9","1","Capacitor","0.1uF","0603","","","","",""
-"C10","1","Capacitor","0.1uF","0603","","","","",""
-"C4","1","Capacitor","1.8nF","0603","","","","",""
-"C14","1","Capacitor","15nF","0603","","","","",""
-"C5","1","Capacitor","33nF","0603","","","","",""
-"C1","1","Capacritor_Pol","10uF","CAPP4V","","","EKXG451ELL100MK20S","",""
-"C2","1","Capacritor_Pol","10uF","CAPP4V","","","EKXG451ELL100MK20S","",""
-"C3","1","Capacritor_Pol","22uF","CAPP1V","","","UKA1E220MDD1TD","",""
-"C8","1","Capacritor_Pol","YK 47uF","CAPP1V","","","UKA1E470MDD1TD","",""
-"C7","1","Capacritor_Pol","ZL 470uF","DSCV","","","UHD1E471MPD","",""
-"U1","1","CD2320","","2320","","","CD2320-B11000","",""
-"F1","1","Fuse TR5","","AXIAL","","","37005000000","",""
-"L1","1","INDUCTOR_","","2020","TYS50404R7N-10","","","",""
-"U3","1","LTV-817S","","4-SMD","","","LTV-817S-TA1","",""
-"U4","1","MIC5211","","SOT-23-6","","","MIC5211-LXYM6 TR","",""
-"D1","1","P6KE250","","SMBJ","","","SMBJP6KE250CA-TP","",""
-"J1","1","PowerGridConnector","","USER","OSTTC030162","","","",""
-"R6","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
-"R5","1","Resistor2","1k","SM","","","","","Resistor (USA type)"
-"R2","1","Resistor2","10","SM","","","","","Resistor (USA type)"
-"R9","1","Resistor2","15k","SM","","","","","Resistor (USA type)"
-"R4","1","Resistor2","33k","SM","","","","","Resistor (USA type)"
-"R3","1","Resistor2","66k","SM","","","","","Resistor (USA type)"
-"R8","1","Resistor2","75k","SM","","","","","Resistor (USA type)"
-"R1","1","Resistor2","220k","SM","","","","","Resistor (USA type)"
-"R7","1","Resistor2","330k","SM","","","","","Resistor (USA type)"
-"D4","1","STPS2H100A","STPS2H100","SMA","","","","",""
-"D5","1","STPS2H100A","STPS2H100","SMA","","","STPS2H100A","",""
-"D2","1","STTH1L06","","SMA","","","STTH1L06A","",""
-"VR1","1","TL431","","SOT-23-3","","","TL431AIDBZR","",""
-"T1","1","Transformer 750370024","8:1","750370024","","","750370024","",""
-"T2","1","UF1717V-103YR25-02","","Vertical 4 Pin","","","UF1717V-103YR25-02","","Common Mode Choke Coils"
-"VAR1","1","varistor","","USER","","","S07K230","",""
-"U2","1","VIPER17-DIP7","","DIP8","","VIPERHN","VIPER17HN","",""
+Report Written :   Tuesday; October 21; 2014  09:24;;;;;;;
+Project Path   :   C:\Users\Administrateur\workspace\Schematics\SSP\Power Supply V2\Power Supply V2.prj;;;;;;;;;
+Design Path    :   C:\Users\Administrateur\workspace\Schematics\SSP\Power Supply V2\Template_Arduino.pcb;;;;;;;;;
+Design Title   :;;;;;;;;;
+Created        :   2014-09-17 17:35:10;;;;;;;;;
+Last Saved     :   2014-10-08 20:26:54;;;;;;;;;
+Editing Time   :   2455 min;;;;;;;;;
+Units          :   mm (precision 3);;;;;;;;;
+;;;;;;;;;
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb;;;;;;;;;
+--------------------------------------------------------------------------;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Ref Name;Qty;Component;Value;Package;Manufacturer;MPN;RS Part Number;Other Part Number;Description
+D3;1;1N414;1N4148;SOD-323F;Fairchild Semiconductor;1N4148WS;;1N4148WSFSCT;
+J2;1;332-02;;332-02;;;Holes;;2 Pin - 2mm Dual RowSource: www.mpe-connector.de / garry_shortform_2012.pdf
+U5;1;ARDUINO_Shield_PIO;;ARDUINO_Shield_PIO;;;;;
+C6;1;Capacitor;4700pF;AXIAL2;Vishay BC Components;S472M69Z5UR63L0R;;1290PH;
+C9;1;Capacitor;0.1uF;SM-0603;Murata Electronics North America;GRM188R71E104KA01D;;490-1524-1;
+C10;1;Capacitor;0.1uF;SM-0603;Murata Electronics North America;GRM188R71E104KA01D;;490-1524-1;
+C14;1;Capacitor;15nF;SM-0603;;;;;
+C5;1;Capacitor;33nF;SM-0603;Murata Electronics North America;GRM033R61C333KE84D;;1276-2042-1;
+C4;1;Capacitor;1800pF;SM-0603;Murata Electronics North America;GRM1885C1H182JA01D;;490-1457-1;
+C1;1;Capacritor_Pol;10uF;CAPP4V;United Chemi-Con;EKXG451ELL100MK20S;;565-1473;
+C2;1;Capacritor_Pol;10uF;CAPP4V;United Chemi-Con;EKXG451ELL100MK20S;;565-1473;
+C3;1;Capacritor_Pol;22uF;CAPP1V;Nichicon;UKA1E220MDD1TD;;493-4649-1;
+C7;1;Capacritor_Pol;470uF;DSCV;Nichicon;UHD1E471MPD6;;UHD1E471MPD6;
+C8;1;Capacritor_Pol;YK 47uF;CAPP1V;Nichicon;UKA1E470MDD1TD;;493-4653-1;
+U1;1;CD2320;;2320;Bourns Inc.;CD2320-B11000;;CD2320-B11000CT;
+F1;1;Fuse TR5;;AXIAL;Littelfuse Inc;37005000000;;WK4941TB;
+L1;1;INDUCTOR_;4.7µH;2020;Laird-Signal Integrity Products;TYS50404R7N-10;;240-2717-1;
+U3;1;LTV-817S;;4-SMD;Lite-On Inc;LTV-817S-TA1;;160-1893-1;
+U4;1;MIC5211;;SOT-23-6;Micrel Inc;MIC5211-LXYM6 TR;MIC5211-LXYM6 TR;576-2749-2;
+D1;1;P6KE250;;SMBJ;Micro Commercial Co;SMBJP6KE250CA-TP;;SMBJP6KE250CA-TPMSCT;
+J1;1;PowerGridConnector;;USER;On Shore Technology Inc;OSTTC030162;;ED2601;
+R6;1;Resistor2;1k;SM-0603;Panasonic Electronic Components;ERJ-3EKF1001V;;P1.00KHCT;Resistor (USA type)
+R5;1;Resistor2;1k;SM-0603;Panasonic Electronic Components;ERJ-3EKF1001V;;P1.00KHCT;Resistor (USA type)
+R2;1;Resistor2;10;SM-0603;Rohm Semiconductor;ESR03EZPF10R0;;RHM10.0ADTR;Resistor (USA type)
+R9;1;Resistor2;15k;SM-0603;Rohm Semiconductor;MCR03ERTF1502;;RHM15.0KCFCT;Resistor (USA type)
+R4;1;Resistor2;33k;SM-0603;Vishay Beyschlag;MCT06030C3302FP500;;MCT0603-33.0K-CFCT;Resistor (USA type)
+R3;1;Resistor2;66k;SM-0603;Stackpole Electronics Inc;RMCF0603FT66K5;;RMCF0603FT66K5CT;Resistor (USA type)
+R8;1;Resistor2;75k;SM-0603;;;;;Resistor (USA type)
+R1;1;Resistor2;220k;SM-0603;Rohm Semiconductor;MCR03ERTF2203;;RHM220KCFCT;Resistor (USA type)
+R7;1;Resistor2;330k;SM-0603;Stackpole Electronics Inc;RMCF0603FT330K;;RMCF0603FT330KCT;Resistor (USA type)
+D4;1;STPS2H100A;STPS2H100;SMA;STMicroelectronics;STPS2H100A;;497-3758-2;
+D5;1;STPS2H100A;STPS2H100;SMA;STMicroelectronics;STPS2H100A;;497-3758-2;
+D2;1;STTH1L06;;SMA;STMicroelectronics;STTH1L06A;;497-3241-1;
+VR1;1;TL431;;SOT-23-3;Texas Instruments;TL431AIDBZR;;296-17329-1;
+T1;1;Transformer 750370024;08:01;750370024;;;750370024;;
+T2;1;UF1717V-103YR25-02;;Vertical 4 Pin;TDK;UF1717V-103YR25-02;UF1717V-103YR25-02;;Common Mode Choke Coils
+VAR1;1;varistor;;USER;;;;;
+U2;1;VIPER17-DIP7;;DIP8;STMicroelectronics;VIPER17HN;;497-6950-5;
