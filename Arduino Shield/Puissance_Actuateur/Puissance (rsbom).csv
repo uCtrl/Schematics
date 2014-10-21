@@ -1,10 +1,10 @@
-Report Written :   Tuesday, October 21, 2014  09:32
-Project Path   :   C:\Users\Administrateur\workspace\Schematics\Arduino Shield\Puissance_Actuateur\Puissance.prj
-Design Path    :   C:\Users\Administrateur\workspace\Schematics\Arduino Shield\Puissance_Actuateur\Template_Arduino.pcb
+Report Written :   Thursday, October 09, 2014  11:50
+Project Path   :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\Arduino Shield\Puissance_Actuateur\Puissance.prj
+Design Path    :   E:\Users\Mathieu\Documents\GitHub\Schematiques\Schematics\Arduino Shield\Puissance_Actuateur\Template_Arduino.pcb
 Design Title   :
-Created        :   2014-09-17 17:35:10
-Last Saved     :   2014-10-08 19:29:52
-Editing Time   :   2577 min
+Created        :   9/17/2014 5:35:10 PM
+Last Saved     :   10/9/2014 11:46:19 AM
+Editing Time   :   2629 min
 Units          :   mm (precision 3)
 
 Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
@@ -13,7 +13,7 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 
 "Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
 "U5","1","ACS709","","user","Allegro MicroSystems, LLC","ACS709LLFTR-35BB-T","","620-1336-1-ND",""
-"U1","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","","This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5"
+"U1","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","",""
 "Q2","1","BTA316","","user","NXP Semiconductors","BTA316B-600E,118","","568-5840-1-ND",""
 "C32","1","Capacitor","0.1uF","0603","Samsung Electro-Mechanics America, Inc","CL05B104KO5NNNC","","1276-1001-1-ND","Capacitor"
 "C33","1","Capacitor","0.1uF","0603","Samsung Electro-Mechanics America, Inc","CL05B104KO5NNNC","","1276-1001-1-ND","Capacitor"
