@@ -1,0 +1,39 @@
+Report Written :   Saturday, October 18, 2014  12:13
+Project Path   :   C:\Users\jeep\Documents\Schematics\Arduino Shield\Sensor\Template.prj
+Design Path    :   C:\Users\jeep\Documents\Schematics\Arduino Shield\Sensor\Sensor.pcb
+Design Title   :
+Created        :   10/12/2014 2:55:14 PM
+Last Saved     :   10/15/2014 12:42:28 PM
+Editing Time   :   306 min
+Units          :   mm (precision 3)
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"U1","1","ARDUINO_Shield_PIO","","ARDUINO_Shield_PIO","","","","",""
+"U2","1","BH1620FVC-TR","","SOT","","","","BH1620FVCCT-ND","Ambient light sensor"
+"L1","1","HSDL-4420#011","","GullWing","","","","516-1264-1-ND","IR LED"
+"SW1","1","KS-01Q-01","","TH","","","","EG4791-ND","Pushbutton"
+"SW2","1","KS-01Q-01","","TH","","","","","Pushbutton"
+"SW3","1","KS-01Q-01","","TH","","","","","Pushbutton"
+"SW4","1","KS-01Q-01","","TH","","","","","Pushbutton"
+"LED1","1","LED","","SMD 0805","LTST-C171GKT","","","160-1423-1-ND","Light Em Di"
+"LED2","1","LED","","SMD 0805","LTST-C171GKT","","","160-1423-1-ND","Light Em Di"
+"LED3","1","LED","","SMD 0805","LTST-C171GKT","","","160-1423-1-ND","Light Em Di"
+"LED4","1","LED","","SMD 0805","LTST-C171GKT","","","160-1423-1-ND","Light Em Di"
+"U3","1","MCP9700T","","SOT","","","","MCP9700T-E/TTCT-ND","Temperature sensor"
+"R3","1","Resistor","1.5k","SM","","","","","Resistor"
+"R4","1","Resistor","1.5k","SM","","","","","Resistor"
+"R5","1","Resistor","1.5k","SM","","","","","Resistor"
+"R6","1","Resistor","10k","SM","","","","","Resistor"
+"R7","1","Resistor","10k","SM","","","","","Resistor"
+"R8","1","Resistor","10k","SM","","","","","Resistor"
+"R9","1","Resistor","10k","SM","","","","","Resistor"
+"R10","1","Resistor","60","SM","","","","","Resistor"
+"R11","1","Resistor","60","SM","","","","","Resistor"
+"R12","1","Resistor","60","SM","","","","","Resistor"
+"R13","1","Resistor","60","SM","","","","","Resistor"
+"R1","1","Resistor","440","SM","","","","","Resistor"
+"U4","1","TSL26711FN","","6-DFN","","","","TSL26711-FNCT-ND","IR proximity sensor"
