@@ -1,0 +1,47 @@
+Report Written :   Friday; October 31; 2014  19:17;;;;;;;
+Project Path   :   C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP.prj;;;;;;;;;
+Design Path    :   C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP.pcb;;;;;;;;;
+Design Title   :;;;;;;;;;
+Created        :   2014-04-04 11:23:25;;;;;;;;;
+Last Saved     :   2014-10-31 19:17:29;;;;;;;;;
+Editing Time   :   1476 min;;;;;;;;;
+Units          :   mm (precision 3);;;;;;;;;
+;;;;;;;;;
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb;;;;;;;;;
+--------------------------------------------------------------------------;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Ref Name;Qty;Component;Value;Package;Manufacturer;MPN;RS Part Number;Other Part Number;Description
+U3;1;74xx125;;USER;Texas Instruments;SN74LVC125ADBR;;296-8452-1;
+C3;1;Capacitor;1µF;SM-0603;Murata Electronics North America;GRM188R71H103KA01D;;490-1512-1;
+C2;1;Capacitor;1nF;SM-0603;Murata Electronics North America;GRM188R71H102KA01D;;490-1494-2;
+C1;1;Capacitor;1nF;SM-0603;Murata Electronics North America;GRM188R71H102KA01D;;490-1494-2;
+C6;1;Capacitor;2.2µF;SM-0603;Samsung Electro-Mechanics America, Inc;CL10B222KB8NCNC;;1276-1989-1;
+C5;1;Capacitor;22pF;SM-0603;TDK Corporation;C1608C0G1H220J080AA;;445-1273-2;
+C4;1;Capacitor;22pF;SM-0603;TDK Corporation;C1608C0G1H220J080AA;;445-1273-2;
+J3;1;CONN10_2X5;;USER;FCI;68602-110HLF;;609-3458;
+J2;1;CONN_SIL_2;;DSC;3M;961102-6404-AR;;3M9447;2 way Pin Header
+J6;1;CONN_SIL_2;;DSC;3M;961102-6404-AR;;3M9447;2 way Pin Header
+J4;1;CONN_SIL_2;;DSC;3M;961102-6404-AR;;3M9447;2 way Pin Header
+J5;1;CONN_SIL_2;;DSC;3M;961102-6404-AR;;3M9447;2 way Pin Header
+J1;1;CONN_SIL_2;;DSC;3M;961102-6404-AR;;3M9447;2 way Pin Header
+X1;1;Crystal 8MHz;;QFP;Abracon Corporation;ABM3B-8.000MHZ-B2-T;;535-9720-1;
+U4;1;GSOT05C;;SOT-23;Vishay Semiconductor Diodes Division;GSOT05C-E3-08;;GSOT05C-E3-08TR;
+L1;1;Inductor;;SM;TDK Corporation;MPZ2012S331AT000;;445-1569-1;Inductor
+L2;1;Inductor;330 OHM;SM0603;TDK Corporation;MPZ2012S331AT000;;445-1569-1;Inductor
+LED1;1;LED;;SMD 0805;Lite-On Inc;LTST-C171GKT;;160-1423-1;Light Em Di
+LED2;1;LED;;SMD 0805;Lite-On Inc;LTST-C170KFKT;;160-1413-1;Light Em Di
+X2;1;MINI-USB-32005-301;;32005-301;FCI;10033526-N3212LF;;609-4700-1;MINI USB-B ConectorSource: www.cypressindustries.com
+U1;1;PK20DX128VFM5;;USER;Freescale Semiconductor;MK20DX128VFM5;;MK20DX128VFM5;
+R8;1;Resistor2;4.3K;SM-0603;Rohm Semiconductor;MCR03ERTF4301;;RHM4.3KCFTR;Resistor (USA type)
+R4;1;Resistor2;4.3k;SM-0603;Rohm Semiconductor;MCR03ERTF4301;;RHM4.3KCFTR;Resistor (USA type)
+R10;1;Resistor2;10K;SM-0603;Panasonic Electronic Components;ERJ-3GEYJ103V;;P10KGCT;Resistor (USA type)
+R7;1;Resistor2;10K;SM-0603;Panasonic Electronic Components;ERJ-3GEYJ103V;;P10KGCT;Resistor (USA type)
+R3;1;Resistor2;10K;SM-0603;Panasonic Electronic Components;ERJ-3GEYJ103V;;P10KGCT;Resistor (USA type)
+R11;1;Resistor2;10K;SM-0603;Panasonic Electronic Components;ERJ-3GEYJ103V;;P10KGCT;Resistor (USA type)
+R6;1;Resistor2;33;SM-0603;Rohm Semiconductor;MCR03ERTF33R0;;RHM33.0CFCT;Resistor (USA type)
+R1;1;Resistor2;33;SM-0603;Rohm Semiconductor;MCR03ERTF33R0;;RHM33.0CFCT;Resistor (USA type)
+R2;1;Resistor2;110;SM-0603;Panasonic Electronic Components;ERJ-6GEYJ111V;;P110ATR;Resistor (USA type)
+R5;1;Resistor2;180;SM-0603;Samsung Electro-Mechanics America, Inc;RC1608J181CS;;1276-5044-1;Resistor (USA type)
+U5;1;SPX3819M5-L-3-3;;SOT95P280X145-5N;Exar Corporation;SPX3819M5-L-3-3;;1016-1873-1;500mA, LOW-NOISE LDO VOLTAGE REGULATOR
+SW1;1;Switch SPST - NO;;USER;TE Connectivity;1825910-7;;450-1804;FSM4JH
