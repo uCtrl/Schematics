@@ -2,237 +2,27 @@ Design Rule Check Report
 ------------------------
 
 Report File    : C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP (PCB - Design Rule Check Report).txt
-Report Written : Wednesday, October 29, 2014
+Report Written : Friday, October 31, 2014
 Project Path   : C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP.prj
 Design Path    : C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP.pcb
 Design Title   : 
 Created        : 2014-04-04 11:23:25
-Last Saved     : 2014-10-29 22:21:40
-Editing Time   : 639 min
-Units          : mil (precision 0)
+Last Saved     : 2014-10-31 19:12:37
+Editing Time   : 1471 min
+Units          : mm (precision 3)
 
 
 Results
 =======
 
-Pad to Silkscreen error (P-S) at (6969 2927) on layer "Top Silkscreen".
-    Silkscreen text 'U4' overlaps pad.
-Pad to Silkscreen error (P-S) at (7000 2927) on layer "Top Silkscreen".
-    Silkscreen text 'U4' overlaps pad.
-Pad to Silkscreen error (P-S) at (7031 2927) on layer "Top Silkscreen".
-    Silkscreen text 'U4' overlaps pad.
-Pad to Silkscreen error (P-S) at (7043 2889) on layer "Top Silkscreen".
-    Silkscreen text 'U4' overlaps pad.
-Pad to Silkscreen error (P-S) at (6666 2960) on layer "Bottom Silkscreen".
-    Silkscreen text 'C1' overlaps pad.
-Pad to Silkscreen error (P-S) at (6467 3852) on layer "Bottom Silkscreen".
-    Silkscreen text 'C5' overlaps pad.
-Pad to Silkscreen error (P-S) at (6917 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6949 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6980 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7012 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7043 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7142 2679) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7141 2581) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6839 2679) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6839 2581) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6839 2797) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6841 2864) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6841 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (6837 2815) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7126 2819) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7142 2872) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7141 2864) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Pad to Silkscreen error (P-S) at (7143 2815) on layer "Top Silkscreen".
-    Silkscreen shape overlaps pad.
-Annular ring too small at (6904,2748)
-    Size is 4 should be 5.
-Annular ring too small at (7077,2748)
-    Size is 4 should be 5.
-Component to Board error (Cm-B) at (6990 2748) on layer "[Top]".
+Annular ring too small at (175.100,70.150)
+    Size is 0.102 should be 0.120.
+Annular ring too small at (179.500,70.150)
+    Size is 0.102 should be 0.120.
+Component to Board error (Cm-B) at (177.300 70.150) on layer "[Top]".
     X2.
-Gap in Net "+3.3V" between (6860,3801) and (6950,3496) 
-    +3.3V.
-Gap in Net "+3.3V" between (6950,3496) and (7124,3555) 
-    +3.3V.
-Gap in Net "+3.3V" between (6950,3496) and (6713,3447) 
-    +3.3V.
-Gap in Net "+3.3V" between (6713,3447) and (6594,3447) 
-    +3.3V.
-Gap in Net "+3.3V" between (6594,3447) and (6490,3318) 
-    +3.3V.
-Gap in Net "+3.3V" between (6490,3318) and (6341,2930) 
-    +3.3V.
-Gap in Net "+3.3V" between (6341,2930) and (6167,2787) 
-    +3.3V.
-Gap in Net "+3.3V" between (6167,2787) and (6386,2689) 
-    +3.3V.
-Gap in Net "+3.3V" between (6386,2689) and (6555,2689) 
-    +3.3V.
-Gap in Net "+3.3V" between (6490,3318) and (6120,3617) 
-    +3.3V.
-Gap in Net "+5V USB" between (7177,3008) and (7177,3191) 
-    +5V USB.
-Gap in Net "+5V USB" between (7177,3191) and (6614,3447) 
-    +5V USB.
-Gap in Net "+5V USB" between (6614,3447) and (6339,3040) 
-    +5V USB.
-Gap in Net "+5V USB" between (6339,3040) and (6341,2842) 
-    +5V USB.
-Gap in Net "+5V USB" between (6341,2842) and (6266,2842) 
-    +5V USB.
-Gap in Net "+5V USB" between (6266,2842) and (6026,2787) 
-    +5V USB.
-Gap in Net "CMSIS-DAP_USB_DN" between (6654,3447) and (6738,3175) 
-    CMSIS-DAP_USB_DN.
-Gap in Net "CMSIS-DAP_USB_DP" between (6673,3447) and (6703,3085) 
-    CMSIS-DAP_USB_DP.
-Gap in Net "GND" between (6976,2995) and (7022,2866) 
-    GND.
-Gap in Net "GND" between (6976,2995) and (6785,3071) 
-    GND.
-Gap in Net "GND" between (6976,2995) and (7148,3196) 
-    GND.
-Gap in Net "GND" between (6785,3071) and (6687,2810) 
-    GND.
-Gap in Net "GND" between (6687,2810) and (6520,2904) 
-    GND.
-Gap in Net "GND" between (6520,2904) and (6303,2842) 
-    GND.
-Gap in Net "GND" between (6303,2842) and (6159,2925) 
-    GND.
-Gap in Net "GND" between (6303,2842) and (6167,2687) 
-    GND.
-Gap in Net "GND" between (6167,2687) and (6026,2687) 
-    GND.
-Gap in Net "GND" between (6167,2687) and (6341,2504) 
-    GND.
-Gap in Net "GND" between (6785,3071) and (6490,3248) 
-    GND.
-Gap in Net "GND" between (6490,3248) and (6575,3447) 
-    GND.
-Gap in Net "GND" between (6575,3447) and (6644,3536) 
-    GND.
-Gap in Net "GND" between (6644,3536) and (6693,3447) 
-    GND.
-Gap in Net "GND" between (6575,3447) and (6446,3581) 
-    GND.
-Gap in Net "GND" between (6446,3581) and (6352,3739) 
-    GND.
-Gap in Net "GND" between (6352,3739) and (6355,3880) 
-    GND.
-Gap in Net "GND" between (6644,3536) and (6841,3605) 
-    GND.
-Gap in Net "GND" between (6352,3739) and (6120,3717) 
-    GND.
-Gap in Net "GND" between (6120,3717) and (6120,3817) 
-    GND.
-Gap in Net "GND" between (6446,3581) and (6283,3415) 
-    GND.
-Gap in Net "GND" between (6841,3605) and (7110,3659) 
-    GND.
-Gap in Net "GND" between (6355,3880) and (6671,3878) 
-    GND.
-Gap in Net "N0000!USB!" between (6939,3113) and (6959,2866) 
-    N0000!USB!.
-Gap in Net "N0000!USB!" between (6939,3113) and (6648,3175) 
-    N0000!USB!.
-Gap in Net "N0004!USB!" between (6695,3071) and (7053,2866) 
-    N0004!USB!.
-Gap in Net "N0007!USB!" between (7107,3008) and (6927,2866) 
-    N0007!USB!.
-Gap in Net "N0013!INTERFACE!" between (6634,3447) and (6841,3675) 
-    N0013!INTERFACE!.
-Gap in Net "N0026!INTERFACE!" between (6575,3626) and (6352,3581) 
-    N0026!INTERFACE!.
-Gap in Net "N0026!INTERFACE!" between (6352,3581) and (6283,3345) 
-    N0026!INTERFACE!.
-Gap in Net "N0028!INTERFACE!" between (6594,3626) and (6446,3739) 
-    N0028!INTERFACE!.
-Gap in Net "N0028!INTERFACE!" between (6446,3739) and (6601,3878) 
-    N0028!INTERFACE!.
-Gap in Net "N0030!USB!" between (7014,3113) and (6990,2866) 
-    N0030!USB!.
-Gap in Net "N0030!USB!" between (7014,3113) and (6703,3175) 
-    N0030!USB!.
-Gap in Net "N0037!INTERFACE!" between (6733,3527) and (6427,2504) 
-    N0037!INTERFACE!.
-Gap in Net "N0058!INTERFACE!" between (6465,2689) and (6427,2594) 
-    N0058!INTERFACE!.
-Gap in Net "N0133!Alimentation!" between (6296,2689) and (6341,2594) 
-    N0133!Alimentation!.
-Gap in Net "N0137!Alimentation!" between (6266,2930) and (6590,2904) 
-    N0137!Alimentation!.
-Gap in Net "RST_INTMCU" between (6339,3130) and (6165,3311) 
-    RST_INTMCU.
-Gap in Net "RST_INTMCU" between (6339,3130) and (6069,2925) 
-    RST_INTMCU.
-Gap in Net "RST_INTMCU" between (6165,3311) and (6614,3626) 
-    RST_INTMCU.
-Gap in Net "RST_TGTMCU" between (6860,3891) and (7040,3659) 
-    RST_TGTMCU.
-Gap in Net "RST_TGTMCU" between (6860,3891) and (6654,3626) 
-    RST_TGTMCU.
-Gap in Net "RST_TGTMCU" between (6654,3626) and (6065,3311) 
-    RST_TGTMCU.
-Gap in Net "RST_TGTMCU" between (6065,3311) and (6431,2987) 
-    RST_TGTMCU.
-Gap in Net "RST_TGTMCU" between (6065,3311) and (6020,4017) 
-    RST_TGTMCU.
-Gap in Net "SPI0_SCK" between (6950,3396) and (6733,3586) 
-    SPI0_SCK.
-Gap in Net "SPI0_SIN" between (6950,3196) and (6733,3546) 
-    SPI0_SIN.
-Gap in Net "SPI0_SOUT" between (7148,3446) and (6733,3566) 
-    SPI0_SOUT.
-Gap in Net "SWD_CLK_INTMCU" between (6165,3173) and (6554,3527) 
-    SWD_CLK_INTMCU.
-Gap in Net "SWD_CLK_TGTMCU" between (6020,3717) and (6065,3173) 
-    SWD_CLK_TGTMCU.
-Gap in Net "SWD_CLK_TGTMCU" between (6065,3173) and (6950,3346) 
-    SWD_CLK_TGTMCU.
-Gap in Net "SWD_DIO_INTMCU" between (6165,3035) and (6554,3586) 
-    SWD_DIO_INTMCU.
-Gap in Net "SWD_DIO_TGTMCU" between (7148,3396) and (6950,3246) 
-    SWD_DIO_TGTMCU.
-Gap in Net "SWD_DIO_TGTMCU" between (6950,3246) and (6065,3035) 
-    SWD_DIO_TGTMCU.
-Gap in Net "SWD_DIO_TGTMCU" between (6065,3035) and (6020,3617) 
-    SWD_DIO_TGTMCU.
-Gap in Net "SWD_EN" between (6950,3296) and (6950,3446) 
-    SWD_EN.
-Gap in Net "SWD_EN" between (6950,3446) and (6554,3605) 
-    SWD_EN.
-Gap in Net "SWD_OE_B" between (7148,3496) and (7214,3555) 
-    SWD_OE_B.
-Gap in Net "SWD_OE_B" between (7148,3496) and (6634,3626) 
-    SWD_OE_B.
-Gap in Net "SWD_USB_P5V_SENSE" between (6733,3468) and (7177,3281) 
-    SWD_USB_P5V_SENSE.
-Gap in Net "SWD_USB_P5V_SENSE" between (6733,3468) and (6445,3880) 
-    SWD_USB_P5V_SENSE.
-Gap in Net "UART1_RX_TGTMCU" between (6733,3605) and (6020,3817) 
-    UART1_RX_TGTMCU.
-Gap in Net "UART1_TX_TGTMCU" between (6020,3917) and (6713,3626) 
-    UART1_TX_TGTMCU.
 
-Number of errors found : 108
+Number of errors found : 3
 
 
 Settings
@@ -245,8 +35,8 @@ Spacings
 
 Tracks         Yes
 Pads and Vias  Yes
-Shapes         Yes
-Text           Yes
+Shapes         No
+Text           No
 Board          Yes
 Drills         Yes
 Components     Yes
@@ -258,7 +48,7 @@ Manufacturing
 
 Drill Breakout                   Yes
 Drill Backoff                    Yes
-Silkscreen Overlap               Yes
+Silkscreen Overlap               No
 Copper Text In Board             Yes
 Min Track Width                  Yes
 Min Annular Ring                 Yes

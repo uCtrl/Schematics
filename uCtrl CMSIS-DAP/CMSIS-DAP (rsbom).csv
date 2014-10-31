@@ -1,0 +1,47 @@
+Report Written :   Friday, October 31, 2014  19:02
+Project Path   :   C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP.prj
+Design Path    :   C:\Users\Administrateur\workspace\Schematics\uCtrl CMSIS-DAP\CMSIS-DAP.pcb
+Design Title   :
+Created        :   2014-04-04 11:23:25
+Last Saved     :   2014-10-30 12:37:27
+Editing Time   :   1461 min
+Units          :   mm (precision 3)
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"U3","1","74xx125","","USER","","","","",""
+"C3","1","Capacitor","0.1µF","SM-0603","","","","",""
+"C2","1","Capacitor","1nF","SM-0603","","","","",""
+"C1","1","Capacitor","1nF","SM-0603","","","","",""
+"C6","1","Capacitor","2.2µF","SM-0603","","","","",""
+"C5","1","Capacitor","22pF","SM-0603","","","","",""
+"C4","1","Capacitor","22pF","SM-0603","","","","",""
+"J3","1","CONN10_2X5","","USER","","","","",""
+"J2","1","CONN_SIL_2","","DSC","","","","","2 way Pin Header"
+"J6","1","CONN_SIL_2","","DSC","","","","","2 way Pin Header"
+"J4","1","CONN_SIL_2","","DSC","","","","","2 way Pin Header"
+"J5","1","CONN_SIL_2","","DSC","","","","","2 way Pin Header"
+"J1","1","CONN_SIL_2","","DSC","","","","","2 way Pin Header"
+"X1","1","Crystal 8MHz","","QFP","","","","",""
+"U4","1","GSOT05C","","SOT-23","","","","",""
+"L2","1","Inductor","","SM0603","","","","","Inductor"
+"L1","1","Inductor","1pH","SM","","","","","Inductor"
+"LED1","1","LED","","SMD 0805","","","","","Light Em Di"
+"LED2","1","LED","","SMD 0805","","","","","Light Em Di"
+"X2","1","MINI-USB-32005-301","","32005-301","","","","","MINI USB-B ConectorSource: www.cypressindustries.com"
+"U1","1","PK20DX128VFM5","","USER","","","","",""
+"R6","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R10","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R7","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R8","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R2","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R5","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R3","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R4","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R11","1","Resistor2","","SM-0603","","","","","Resistor (USA type)"
+"R1","1","Resistor2","10K","SM","","","","","Resistor (USA type)"
+"U5","1","SPX3819M5-L-3-3","","SOT95P280X145-5N","","","","","500mA, LOW-NOISE LDO VOLTAGE REGULATOR"
+"SW1","1","Switch SPST - NO","","USER","","","","","FSM4JH"
